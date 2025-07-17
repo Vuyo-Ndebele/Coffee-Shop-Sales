@@ -56,3 +56,19 @@ Excel
 - Built dynamic dashboards using charts and slicers to visualize performance trends
 
 - Business intelligence storytelling using dashboards and reports
+
+## 📂 Data Sourcing
+
+The dataset used for this analysis represents point-of-sale transactions from a coffee shop over a given time period. It includes fields such as:
+
+- Transaction Date and Time
+
+- Product Names and Categories
+
+- Quantity Sold
+
+- Unit Price and Total Sale Amount
+
+- Payment Method
+
+- Customer Type
