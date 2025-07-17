@@ -1,6 +1,7 @@
 # Coffee Shop Sales
 
 ![](coffee_shop.jpg)
+_ _ _
 
 ## 📊 Introduction
 
