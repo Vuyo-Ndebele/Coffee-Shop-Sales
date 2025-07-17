@@ -125,3 +125,4 @@ Align staff shifts with peak periods to ensure fast service and maximize custome
 Establish a routine for collecting and analyzing sales data weekly or monthly to track trends and adjust business strategies in real time.
 
 ![](thank_you.jpg)
+
