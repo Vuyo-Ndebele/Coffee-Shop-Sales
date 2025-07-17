@@ -35,7 +35,7 @@ This project aims to analyze the coffee shop’s sales data to identify:
 
 - Sales trends across products and time intervals
 
-- Opportunities for improving operational efficiency and 
+- Opportunities for improving operational efficiency and profitability
 
 ## 🛠️ Skills Used
 
