@@ -126,3 +126,6 @@ Establish a routine for collecting and analyzing sales data weekly or monthly to
 
 ## Thank you!
 
+![](thank_you.jpg)
+
+
