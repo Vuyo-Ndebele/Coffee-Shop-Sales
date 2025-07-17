@@ -84,6 +84,37 @@ These steps ensured the data was clean, structured, and ready for meaningful ins
 
 - Formatted date and time columns for time-based analysis (e.g., extracting day, month, hour)
 
-- Created  bucket list columns such as transaction time
+- Created  bucket list column such as transaction time
 
 - Standardized categorical values
+
+## ✅ Conclusion
+
+The analysis of the coffee shop’s sales data revealed key insights into product performance, customer behavior, and sales trends. Most sales occurred during morning and early afternoon hours, with certain products like lattes and cappuccinos consistently leading in popularity. Additionally, repeat customers contributed significantly to overall revenue, highlighting the importance of customer retention.
+
+Through data transformation and analysis in **SQL,** we were able to:
+
+- Identify top-performing and underperforming products
+
+- Pinpoint peak sales hours and high-traffic days
+
+- Understand payment preferences and customer types
+
+- Highlight opportunities to improve stock planning and promotions
+
+## 📌 Recommendations
+
+## 1. Focus on High-Selling Products
+Increase inventory and marketing efforts for top-performing items, especially during peak hours.
+
+## 2. Target Promotions During Off-Peak Hours
+Offer time-based discounts or loyalty rewards to boost sales during slower periods (e.g., late afternoons).
+
+## 3. Enhance Customer Retention Strategies
+Develop loyalty programs or personalized offers for returning customers, who form a major revenue base.
+
+## 4. Optimize Staff Scheduling
+Align staff shifts with peak periods to ensure fast service and maximize customer satisfaction.
+
+## 5. Use Data Continuously
+Establish a routine for collecting and analyzing sales data weekly or monthly to track trends and adjust business strategies in real time.
