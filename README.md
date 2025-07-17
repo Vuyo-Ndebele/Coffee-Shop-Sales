@@ -84,10 +84,6 @@ These steps ensured the data was clean, structured, and ready for meaningful ins
 
 - Formatted date and time columns for time-based analysis (e.g., extracting day, month, hour)
 
-- Created calculated columns such as:
-
-Total Sale = Quantity × Unit Price
-
-Day of Week, Month, Hour using SQL date functions
+- Created  bucket list columns such as transaction time
 
 - Standardized categorical values
