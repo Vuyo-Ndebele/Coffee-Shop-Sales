@@ -1,6 +1,6 @@
 # Coffee Shop Sales
 
-**📊 Introduction**
+##📊 Introduction
 
 > Welcome to my Data Analyst portfolio focused on Coffee Shop Sales Analysis. This project showcases my ability to explore, clean, analyze, and visualize sales data to uncover meaningful insights that can help drive business decisions.
 
