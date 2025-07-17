@@ -72,3 +72,22 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 - Payment Method
 
 - Customer Type
+
+## 🔄 Data Transformation
+
+To prepare the coffee shop sales data for analysis, several transformation steps were carried out using SQL. 
+These steps ensured the data was clean, structured, and ready for meaningful insights.
+
+## In SQL:
+
+- Removed duplicates and handled missing or inconsistent entries
+
+- Formatted date and time columns for time-based analysis (e.g., extracting day, month, hour)
+
+- Created calculated columns such as:
+
+Total Sale = Quantity × Unit Price
+
+Day of Week, Month, Hour using SQL date functions
+
+- Standardized categorical values
