@@ -17,22 +17,22 @@ _ _ _
 
 Without a data-driven approach, the shop struggles with challenges such as:
 
-> Inefficient inventory planning
+- Inefficient inventory planning
 
-> Missed revenue opportunities during peak hours
+- Missed revenue opportunities during peak hours
 
-> Limited understanding of customer purchase patterns
+- Limited understanding of customer purchase patterns
 
-> Inability to tailor marketing strategies to high-performing products or periods
+- Inability to tailor marketing strategies to high-performing products or periods
 
 This project aims to analyze the coffee shop’s sales data to identify:
 
-> Which products generate the most revenue? 
+- Which products generate the most revenue? 
 
-> Peak hours and days for sales activity
+- Peak hours and days for sales activity
 
-> Customer purchasing trends
+- Customer purchasing trends
 
-> Sales trends across products and time intervals
+- Sales trends across products and time intervals
 
-> Opportunities for improving operational efficiency and profitability
+- Opportunities for improving operational efficiency and profitability
