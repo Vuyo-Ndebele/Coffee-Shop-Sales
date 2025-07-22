@@ -86,6 +86,9 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 To prepare the coffee shop sales data for analysis, several transformation steps were carried out using SQL. 
 These steps ensured the data was clean, structured, and ready for meaningful insights.
 
+- Standardizing Values.
+- Used SQL to detect, correct, and prevent dirty data before it enters the dashboards.
+  
 ## In SQL:
 
 - Removed duplicates and handled missing or inconsistent entries
