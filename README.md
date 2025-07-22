@@ -63,19 +63,18 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
-| transaction_id          | Unique id for each transaction          | VARCHAR(30)    |
-| transaction_date        | Date when the transaction occured       | VARCHAR(5)     |
-| transaction_time        | Time when the transaction occured       | VARCHAR(30)    |
-| transaction quantity    | Quantity of prodct sold in the transaction | INT            |
-| store_id                | Unique identifier for product sold      | VARCHAR(30)    |
-| store_location          | Location or branch of the store         | FLOAT(2, 1)    |
-| product_id              | The type of the products                | VARCHAR(30)    |
-| unit_price              | The price of each product               | DECIMAL(10, 2) |
-| product_category        | Gender of the customer making purchase  | VARCHAR(10)    |
-
-| product_type            | The amount of the product sold          | INT            |
-| product_detail          | The amount of tax on the purchase       | FLOAT(6, 4)    |
-| time of day             | The total cost of the purchase          | DECIMAL(10, 2) |
+| transaction_id          | Unique id for each transaction          | INTEGER        |
+| transaction_date        | Date when the transaction occured       | DATE           |
+| transaction_time        | Time when the transaction occured       | TIME(7)        |
+| transaction quantity    | Quantity of prodct sold in the transaction | INT         |
+| store_id                | Unique identifier for product sold      | INTEGER        |
+| store_location          | Location or branch of the store         | VARCHAR(50)    |
+| product_id              | The type of the products                | INTEGER    |
+| unit_price              | Price per unit of the product sold      | FLOAT |
+| product_category        | Category of the product                 | VARCHAR(50)    |
+| product_type            | Type or classification of the product   | VARCHAR(50)    |
+| product_detail          | Detailed name or variant of the product | VARCHAR(50)    |
+| time of day             | Time period of the transaction          | VARCHAR(20)    |
 
 ## 🔄 Data Transformation
 
