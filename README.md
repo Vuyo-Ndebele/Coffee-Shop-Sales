@@ -63,12 +63,12 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
-| transaction_id          | Transaction of the sales made           | VARCHAR(30)    |
-| transaction_date        | Transaction at which sales were made    | VARCHAR(5)     |
-| transaction_time        | Transaction at which sales were made    | VARCHAR(30)    |
-| transaction quantity    | The amount of the product sold          | INT            |
-| store_id                | The type of the customer                | VARCHAR(30)    |
-| store_location          | Rating                                  | FLOAT(2, 1)    |
+| transaction_id          | Unique id for each transaction          | VARCHAR(30)    |
+| transaction_date        | Date when the transaction occured       | VARCHAR(5)     |
+| transaction_time        | Time when the transaction occured       | VARCHAR(30)    |
+| transaction quantity    | Quantity of prodct sold in the transaction | INT            |
+| store_id                | Unique identifier for product sold      | VARCHAR(30)    |
+| store_location          | Location or branch of the store         | FLOAT(2, 1)    |
 | product_id              | The type of the products                | VARCHAR(30)    |
 | unit_price              | The price of each product               | DECIMAL(10, 2) |
 | product_category        | Gender of the customer making purchase  | VARCHAR(10)    |
