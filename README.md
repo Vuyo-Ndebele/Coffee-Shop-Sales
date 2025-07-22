@@ -66,7 +66,7 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 | transaction_id          | Unique id for each transaction          | INTEGER        |
 | transaction_date        | Date when the transaction occured       | DATE           |
 | transaction_time        | Time when the transaction occured       | TIME(7)        |
-| transaction quantity    | Quantity of product sold in the transaction | INT         |
+| transaction_quantity    | Quantity of product sold in the transaction | INT         |
 | store_id                | Unique identifier for product sold      | INTEGER        |
 | store_location          | Location or branch of the store         | VARCHAR(50)    |
 | product_id              | The type of the product sold            | INTEGER        |
@@ -74,7 +74,7 @@ The dataset used for this analysis represents point-of-sale transactions from a 
 | product_category        | Category of the product                 | VARCHAR(50)    |
 | product_type            | Type or classification of the product   | VARCHAR(50)    |
 | product_detail          | Detailed name or variant of the product | VARCHAR(50)    |
-| time of day             | Time period of the transaction          | VARCHAR(20)    |
+| time_of_day             | Time period of the transaction          | VARCHAR(20)    |
 
 ## 🔄 Data Transformation
 
