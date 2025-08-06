@@ -7,9 +7,7 @@ _ _ _
 
 1. Welcome to my Data Analyst portfolio focused on Coffee Shop Sales Analysis. This project showcases my ability to explore, clean, analyze, and visualize sales data to uncover meaningful insights that can help drive business decisions.
 
-2. Using a dataset from a fictional coffee shop, I examined key performance indicators such as product popularity, peak sales hours, customer behavior, and revenue trends. The goal of this analysis is to identify patterns and opportunities that can support better inventory planning, marketing strategies, and overall business growth.
-
-**_Disclaimer_** : _All the coffee shop dataset and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of SQL and Microsoft Excel._
+2. Using a dataset from a coffee shop sales, I examined key performance indicators such as product popularity, peak sales hours, customer behavior, and revenue trends. The goal of this analysis is to identify patterns and opportunities that can support better inventory planning, marketing strategies, and overall business growth.
 
 ## ☕ Problem Statement
 
@@ -36,6 +34,22 @@ This project aims to analyze the coffee shop’s sales data to identify:
 - Sales trends across products and time intervals
 
 - Opportunities for improving operational efficiency and profitability
+
+## 🎯 Objectives
+
+The goal of this project was to analyze and improve the sales performance of a coffee shop by examining transactional data and customer behavior. The key objectives were:
+
+- Track and summarize daily, weekly, and monthly sales performance across different product categories (e.g., coffee, pastries, sandwiches).
+
+- Identify best-selling and least-selling products to help with inventory and menu decisions.
+
+- Understand peak sales hours and customer footfall patterns to optimize staffing and opening hours.
+
+- Analyze customer preferences and purchasing behavior to support targeted marketing efforts.
+
+- Uncover seasonal or time-based sales trends that can inform promotions and pricing strategies.
+
+- Build interactive dashboards and reports using tools like Excel and Power BI to support data-driven decision-making.
 
 ## 🛠️ Skills Used
 
