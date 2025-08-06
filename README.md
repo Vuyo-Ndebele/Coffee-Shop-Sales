@@ -13,7 +13,7 @@ _ _ _
 
 1. A local coffee shop has been collecting sales data but has not fully utilized it to understand customer behavior, sales trends, or product performance. The management lacks clear insights into which products are most profitable, what times of day generate the most sales, and how customer preferences vary over time.
 
-Without a data-driven approach, the shop struggles with challenges such as:
+2. Without a data-driven approach, the shop struggles with challenges such as:
 
 - Inefficient inventory planning
 
@@ -23,7 +23,7 @@ Without a data-driven approach, the shop struggles with challenges such as:
 
 - Inability to tailor marketing strategies to high-performing products or periods
 
-This project aims to analyze the coffee shop’s sales data to identify:
+3. This project aims to analyze the coffee shop’s sales data to identify:
 
 - Which products generate the most revenue? 
 
@@ -53,7 +53,7 @@ The goal of this project was to analyze and improve the sales performance of a c
 
 ## 🛠️ Skills Used
 
-SQL
+🧮 SQL
 
 - Wrote complex queries to extract and filter data from sales table
 
@@ -63,7 +63,7 @@ SQL
 
 - Identified trends in sales by time of day, day of the week, and product category
 
-Excel
+📈 Excel
 
 - Created pivot tables to summarize key metrics like sales per product and revenue per day
 
@@ -98,7 +98,7 @@ These steps ensured the data was clean, structured, and ready for meaningful ins
 - Standardizing Values.
 - Used SQL to detect, correct, and prevent dirty data before it enters the dashboards.
   
-## In SQL:
+## In 📊 SQL:
 
 - Removed duplicates and handled missing or inconsistent entries
 
